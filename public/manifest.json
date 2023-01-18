@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Portfolio | Bouca.dev",
+  "short_name": "Portfolio | Bouca.dev",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#262626",
+  "description": "I'm a web developer and this is my portfolio. Contact me for more information."
+}
