@@ -15,7 +15,7 @@ export default component$(() => {
       </main>
       <footer class={'flex justify-center items-center pt-10'}>
         <div class='flex flex-col items-center gap-2'>
-          <div class={'flex gap-2'}>
+          <div class={'flex gap-2 pb-4'}>
             <a
               href='https://www.linkedin.com/in/alexandre-bouca/'
               target={'_blank'}
