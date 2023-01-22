@@ -17,10 +17,10 @@ export default component$(() => {
       <div class={'xl:w-2/3 mx-4 xl:mx-auto'}>
         <h1 class={'text-center text-4xl mt-10 mb-4'}>About Me</h1>
         <p>
-          Hi, I'm Alexndre Bouça, who graduated from Instituto Politécnico de
-          Viseu in 2022, under the program Brightstart from Deloitte. Where I
-          gained experience in the Agile/Scrum projects. The internship projects
-          include building scripts/accelerators and unitary tests.
+          Hi, I'm Alexandre Bouça, graduated from Instituto Politécnico de Viseu
+          in 2022, under the program Brightstart from Deloitte. There I gained
+          experience in Agile/Scrum projects. The internship projects included
+          building scripts/accelerators and unitary tests.
         </p>
         <h1 class={'text-center text-4xl mt-10 mb-4'}>
           Tech and Tools I have used
@@ -97,7 +97,8 @@ export const head: DocumentHead = {
   meta: [
     {
       name: 'description',
-      content: "I'm a web developer and this is my portfolio. Contact me for more information.",
+      content:
+        "I'm a web developer and this is my portfolio. Contact me for more information.",
     },
   ],
 }
