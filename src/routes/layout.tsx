@@ -1,7 +1,6 @@
 import { component$, Slot } from '@builder.io/qwik'
 import { GithubLogo } from '~/components/icons/github'
 import { LinkedInLogo } from '~/components/icons/linkedin'
-import { MUIButton } from '~/integrations/react/mui'
 
 import Header from '../components/header/header'
 
@@ -16,9 +15,6 @@ export default component$(() => {
       </main>
       <footer class={'flex justify-center items-center pt-10'}>
         <div class='flex flex-col items-center gap-2'>
-          <MUIButton variant='contained' href='/contact'>
-            Contact Me
-          </MUIButton>
           <div class={'flex gap-2'}>
             <a
               href='https://www.linkedin.com/in/alexandre-bouca/'

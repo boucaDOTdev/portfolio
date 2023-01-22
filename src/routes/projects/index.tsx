@@ -19,16 +19,6 @@ export default component$(() => {
         <div class={'grid grid-cols-4 gap-6 mx-4'}>
           <div
             class={
-              'bg-neutral-600 hover:bg-neutral-500 rounded-xl p-4 shadow-md shadow-cyan-500 col-span-4 sm:col-span-2 2xl:col-span-1'
-            }
-          >
-            <a href='/react'>
-              <h2 class={'text-2xl'}>React</h2>
-              <p>Integrating React components from MUI into QUIK</p>
-            </a>
-          </div>
-          <div
-            class={
               'bg-neutral-600 hover:bg-neutral-500 rounded-xl p-4 shadow-md shadow-lime-500 col-span-4 sm:col-span-2 2xl:col-span-1'
             }
           >
